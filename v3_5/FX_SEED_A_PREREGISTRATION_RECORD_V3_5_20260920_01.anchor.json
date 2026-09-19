@@ -1,0 +1,16 @@
+{
+  "anchor_record_id": "FX_SEED_A_PREREGISTRATION_RECORD_V3_5_20260920_01",
+  "record_path": "FX_LOCAL/controller/24_SEED_A预注册记录_v3_5_20260920.json",
+  "record_bytes": 17941,
+  "record_sha256": "8773AA46E86992DA6D19A68877844D2601BB81B21712DA07CA371B10385B8394",
+  "canonical_payload_sha256": "19fbb3f43a842584547d6ff5495461a16e17b202ce6e8b2460c5b5a7fc846542",
+  "canonical_payload_algorithm": "UTF-8; recursively sort object keys by ordinal name; arrays retain order; JSON strings use PowerShell ConvertTo-Json -Compress escaping; separators comma/colon; SHA-256 over resulting bytes.",
+  "source_rule_draft": {
+    "path": "repo/forex-trading-system-v04/.cindy-c1-test-output/audit-seed-a-rule-confirmation-20260920-p38ilvmy2uc1saa668vprjx5/CORRECT_RECOMMENDED_RULES_DRAFT.md",
+    "bytes": 9499,
+    "sha256": "F5A72DEF06A7B95E63E02EECCF8DD8F5AB22E274F1C02E73BF91887267B0A1CB"
+  },
+  "owner_choice": "同意按你建议执行（Lead转述；message_id和精确时间为null；登记日2026-09-20）",
+  "status": "PREPARED_NOT_PUBLISHED",
+  "publication": "未发布；anchor仅为待独审/未来发布输入，不授予读取、施工、trial、pin或开火许可。"
+}
