@@ -1,0 +1,28 @@
+{
+  "anchor_kind": "FX_SEED_A_CONTROL_CONTRACT_ANCHOR",
+  "anchor_schema_version": "1",
+  "record_id": "FX_SEED_A_PREREGISTRATION_RECORD_V3_4_20260919_01",
+  "record_version": "v3.4",
+  "publication_status": "PREPARED_NOT_PUBLISHED",
+  "preregistration_path": "FX_LOCAL/controller/23_SEED_A预注册记录_v3_4_20260919.json",
+  "preregistration_bytes": 10017,
+  "preregistration_sha256": "ebea5d23d609caf51ac89810de818ba56e06be651221ed803ce7f0e6230c27db",
+  "canonical_payload_sha256": "a37e9432fa24a88648ab22dbca150a7dcc4b61b12f121f47809c7627deb2509f",
+  "design_binding": {
+    "v2": "2d604030f06d6810d122306f3b503426c267bef20c14884c2545aa3ff072d5ab",
+    "v3": "be65acb4a1b2457408da83124a9a72418165d0b45f30656c4a50e3d3ebc4c903",
+    "v4": "18e3b3d6cca554176821e6562085680ae45d62a43b0181cc00bae7198d52a76a",
+    "owner_table_v4": "307c6abfc4663be7beecba313a1faf76020adcb8793a1aa45ebec7458f21a388",
+    "design_audit_v4": "0ef9736a100517fec72a5db892ce1aaa66f8ae945d05036a99d08316f894ab75"
+  },
+  "code_binding_plan": {
+    "baseline_pin": "pin37 / 41d8ed18a489e653d523596e1d82581530cb5fc7ff22030b9404b1cbab5de5a4",
+    "future_requirement": "仅在后续具体工程授权、实现、pin与独立审计后，将实现代码hash、pin和plan hash写入终端证据；本锚不预称该实现已存在或已验证。"
+  },
+  "execution_read_authorization_pending": true,
+  "real_trial_not_started": true,
+  "contains_market_data": false,
+  "contains_credentials": false,
+  "contains_friend_material": false,
+  "outer_file_serialization": "UTF-8, LF-only, exactly one trailing LF; outer file SHA-256 is intentionally not embedded to avoid self-reference."
+}
