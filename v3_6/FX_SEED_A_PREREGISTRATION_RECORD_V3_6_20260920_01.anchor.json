@@ -1,0 +1,13 @@
+{
+  "anchor_record_id": "FX_SEED_A_PREREGISTRATION_RECORD_V3_6_20260920_01",
+  "record_path": "FX_LOCAL/controller/25_SEED_A预注册记录_v3_6_20260920.json",
+  "record_bytes": 23551,
+  "record_sha256": "45957d96fa074b5fc7364ae8e17def9a5b5435d6ef35951f251e70adf7fa3d69",
+  "canonical_payload_sha256": "470bd5507046e19c885af6a3111771ba8a2dbcc3712c5e03dc17535fce790cd6",
+  "canonical_payload_algorithm": "UTF-8; recursively sort object keys by ordinal name; arrays retain order; JSON strings use PowerShell ConvertTo-Json -Compress escaping; separators comma/colon; no whitespace; SHA-256 over resulting bytes.",
+  "parent_v3_5_record_sha256": "8773aa46e86992da6d19a68877844d2601bb81b21712da07ca371b10385b8394",
+  "parent_v3_5_canonical_payload_sha256": "19fbb3f43a842584547d6ff5495461a16e17b202ce6e8b2460c5b5a7fc846542",
+  "active_change": "B is NOT_REQUIRED; active gates are E and D; all other inherited rules remain active.",
+  "status": "PREPARED_NOT_PUBLISHED",
+  "publication": "未发布；anchor仅为待独立审计/未来发布输入，不授予读取、施工、trial、pin或开火许可。"
+}
